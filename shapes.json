@@ -1,0 +1,530 @@
+[
+  {
+    "_id": "65d4073fedc2652c15b0a727",
+    "shape": "circle",
+    "area": 76.0099,
+    "colour": "green",
+    "coordinates": {
+      "x": 800,
+      "y": 987
+    },
+    "serialiseable": false,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f553ad573e5f2a954",
+    "shape": "rectangle",
+    "area": 25.126,
+    "colour": "indigo",
+    "coordinates": {
+      "x": 210,
+      "y": 623
+    },
+    "serialiseable": false,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f778249cedad8cc50",
+    "shape": "square",
+    "area": 63.5305,
+    "colour": "yellow",
+    "coordinates": {
+      "x": 1043,
+      "y": 378
+    },
+    "serialiseable": true,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073fb07bd7cef22b8261",
+    "shape": "square",
+    "area": 38.4098,
+    "colour": "blue",
+    "coordinates": {
+      "x": 76,
+      "y": 291
+    },
+    "serialiseable": true,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f276f84925b120c02",
+    "shape": "rectangle",
+    "area": 35.6537,
+    "colour": "indigo",
+    "coordinates": {
+      "x": 1499,
+      "y": 65
+    },
+    "serialiseable": false,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f0134e49c4ad78986",
+    "shape": "triangle",
+    "area": 80.5045,
+    "colour": "violet",
+    "coordinates": {
+      "x": 597,
+      "y": 1070
+    },
+    "serialiseable": false,
+    "shape_variant": "obtuse"
+  },
+  {
+    "_id": "65d4073f3f664cb3f3b848b7",
+    "shape": "rectangle",
+    "area": 40.6714,
+    "colour": "violet",
+    "coordinates": {
+      "x": 1162,
+      "y": 866
+    },
+    "serialiseable": true,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073fc34185872e4ef2e8",
+    "shape": "rectangle",
+    "area": 70.5458,
+    "colour": "orange",
+    "coordinates": {
+      "x": 142,
+      "y": 409
+    },
+    "serialiseable": false,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f500557deeab8ef0b",
+    "shape": "square",
+    "area": 32.8563,
+    "colour": "blue",
+    "coordinates": {
+      "x": 608,
+      "y": 1024
+    },
+    "serialiseable": false,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f3c125e32aa2383c0",
+    "shape": "square",
+    "area": 98.9622,
+    "colour": "indigo",
+    "coordinates": {
+      "x": 1696,
+      "y": 48
+    },
+    "serialiseable": true,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f874a52e270f0925a",
+    "shape": "circle",
+    "area": 62.0269,
+    "colour": "yellow",
+    "coordinates": {
+      "x": 834,
+      "y": 168
+    },
+    "serialiseable": true,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f52fe3c35b43c914f",
+    "shape": "circle",
+    "area": 37.1804,
+    "colour": "blue",
+    "coordinates": {
+      "x": 1426,
+      "y": 605
+    },
+    "serialiseable": true,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f716f0acc1ca340ff",
+    "shape": "pentagon",
+    "area": 35.4859,
+    "colour": "yellow",
+    "coordinates": {
+      "x": 1280,
+      "y": 512
+    },
+    "serialiseable": true,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f1dcd1e40e2a58a18",
+    "shape": "pentagon",
+    "area": 71.7266,
+    "colour": "green",
+    "coordinates": {
+      "x": 90,
+      "y": 978
+    },
+    "serialiseable": true,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f188beae87ae8df90",
+    "shape": "square",
+    "area": 49.2818,
+    "colour": "violet",
+    "coordinates": {
+      "x": 1487,
+      "y": 211
+    },
+    "serialiseable": true,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073feb776b866a8d4fb6",
+    "shape": "pentagon",
+    "area": 52.6191,
+    "colour": "violet",
+    "coordinates": {
+      "x": 346,
+      "y": 435
+    },
+    "serialiseable": false,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f09014fc66f4fe59d",
+    "shape": "square",
+    "area": 98.8079,
+    "colour": "orange",
+    "coordinates": {
+      "x": 1865,
+      "y": 686
+    },
+    "serialiseable": true,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073fb27260aed0946630",
+    "shape": "pentagon",
+    "area": 24.0368,
+    "colour": "yellow",
+    "coordinates": {
+      "x": 1305,
+      "y": 146
+    },
+    "serialiseable": false,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f70c11893c7a7a6e8",
+    "shape": "pentagon",
+    "area": 68.9779,
+    "colour": "indigo",
+    "coordinates": {
+      "x": 595,
+      "y": 469
+    },
+    "serialiseable": true,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f83ad1777b0a51068",
+    "shape": "circle",
+    "area": 35.0164,
+    "colour": "orange",
+    "coordinates": {
+      "x": 349,
+      "y": 52
+    },
+    "serialiseable": false,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f0c77c21a08a1f0af",
+    "shape": "rectangle",
+    "area": 44.5826,
+    "colour": "red",
+    "coordinates": {
+      "x": 1099,
+      "y": 409
+    },
+    "serialiseable": false,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073fadc4891e023a68e2",
+    "shape": "circle",
+    "area": 75.6958,
+    "colour": "yellow",
+    "coordinates": {
+      "x": 218,
+      "y": 180
+    },
+    "serialiseable": false,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073fe516f0beec6b5105",
+    "shape": "square",
+    "area": 51.0216,
+    "colour": "violet",
+    "coordinates": {
+      "x": 569,
+      "y": 477
+    },
+    "serialiseable": true,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f3e088337d6545557",
+    "shape": "square",
+    "area": 65.8928,
+    "colour": "green",
+    "coordinates": {
+      "x": 113,
+      "y": 566
+    },
+    "serialiseable": true,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f46fa08a7578dc564",
+    "shape": "rectangle",
+    "area": 89.0588,
+    "colour": "orange",
+    "coordinates": {
+      "x": 1443,
+      "y": 1038
+    },
+    "serialiseable": false,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073fa29697db28a9f4f2",
+    "shape": "rectangle",
+    "area": 36.134,
+    "colour": "orange",
+    "coordinates": {
+      "x": 76,
+      "y": 209
+    },
+    "serialiseable": false,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f3a9323facc0dac09",
+    "shape": "triangle",
+    "area": 44.719,
+    "colour": "green",
+    "coordinates": {
+      "x": 664,
+      "y": 13
+    },
+    "serialiseable": true,
+    "shape_variant": "obtuse"
+  },
+  {
+    "_id": "65d4073fd6f7f68ba5a2bfe6",
+    "shape": "triangle",
+    "area": 20.7051,
+    "colour": "green",
+    "coordinates": {
+      "x": 1794,
+      "y": 385
+    },
+    "serialiseable": true,
+    "shape_variant": "isosceles"
+  },
+  {
+    "_id": "65d4073fc99791482d0f71b4",
+    "shape": "square",
+    "area": 75.1633,
+    "colour": "indigo",
+    "coordinates": {
+      "x": 1065,
+      "y": 657
+    },
+    "serialiseable": false,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073fb2511daac0eeb876",
+    "shape": "square",
+    "area": 74.7699,
+    "colour": "orange",
+    "coordinates": {
+      "x": 1356,
+      "y": 477
+    },
+    "serialiseable": true,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073fdf964390e23b659e",
+    "shape": "rectangle",
+    "area": 87.6536,
+    "colour": "orange",
+    "coordinates": {
+      "x": 246,
+      "y": 187
+    },
+    "serialiseable": true,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f5f74becd28d18624",
+    "shape": "circle",
+    "area": 81.6388,
+    "colour": "yellow",
+    "coordinates": {
+      "x": 874,
+      "y": 641
+    },
+    "serialiseable": true,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f1e0714b4c47420fe",
+    "shape": "circle",
+    "area": 98.8877,
+    "colour": "blue",
+    "coordinates": {
+      "x": 3,
+      "y": 866
+    },
+    "serialiseable": false,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f634581976b5bd997",
+    "shape": "square",
+    "area": 94.4799,
+    "colour": "orange",
+    "coordinates": {
+      "x": 1756,
+      "y": 82
+    },
+    "serialiseable": true,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f284043b2acd578a7",
+    "shape": "square",
+    "area": 61.6375,
+    "colour": "green",
+    "coordinates": {
+      "x": 1366,
+      "y": 736
+    },
+    "serialiseable": true,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f2ac8d71fa27d0e78",
+    "shape": "pentagon",
+    "area": 64.8264,
+    "colour": "indigo",
+    "coordinates": {
+      "x": 581,
+      "y": 139
+    },
+    "serialiseable": false,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073fb758e768702f2213",
+    "shape": "rectangle",
+    "area": 54.6529,
+    "colour": "red",
+    "coordinates": {
+      "x": 943,
+      "y": 496
+    },
+    "serialiseable": true,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f7f5e6b245fca9d02",
+    "shape": "circle",
+    "area": 87.4513,
+    "colour": "yellow",
+    "coordinates": {
+      "x": 1143,
+      "y": 759
+    },
+    "serialiseable": true,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f57995b5a32caa1ad",
+    "shape": "square",
+    "area": 71.6808,
+    "colour": "red",
+    "coordinates": {
+      "x": 1075,
+      "y": 247
+    },
+    "serialiseable": false,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f9695e66b06ad6ce4",
+    "shape": "circle",
+    "area": 42.71,
+    "colour": "red",
+    "coordinates": {
+      "x": 787,
+      "y": 921
+    },
+    "serialiseable": true,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f526bf2b647bc9a30",
+    "shape": "pentagon",
+    "area": 61.4535,
+    "colour": "violet",
+    "coordinates": {
+      "x": 1610,
+      "y": 934
+    },
+    "serialiseable": false,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f2e455fd569bb6f88",
+    "shape": "circle",
+    "area": 21.0935,
+    "colour": "violet",
+    "coordinates": {
+      "x": 1669,
+      "y": 204
+    },
+    "serialiseable": false,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073fc8f084d4e870809f",
+    "shape": "rectangle",
+    "area": 66.335,
+    "colour": "orange",
+    "coordinates": {
+      "x": 1697,
+      "y": 1015
+    },
+    "serialiseable": true,
+    "shape_variant": null
+  },
+  {
+    "_id": "65d4073f56fb62b5808cd842",
+    "shape": "rectangle",
+    "area": 52.9143,
+    "colour": "green",
+    "coordinates": {
+      "x": 1869,
+      "y": 321
+    },
+    "serialiseable": false,
+    "shape_variant": null
+  }
+]
